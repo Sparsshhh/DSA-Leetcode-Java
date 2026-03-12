@@ -1,0 +1,66 @@
+Problem Statement: Fibonacci-Prime Hybrid
+Objective : Design a program to calculate the Nth term of a specific interleaved mathematical series. 
+The series is constructed by alternating between two sequences:
+Odd Positions (1, 3, 5, ): Terms follow the Fibonacci sequence.
+Even Positions (2, 4, 6, ): Terms follow the sequence of Prime numbers.
+
+Time Complexity: O(L loglog L)
+Space Complexity: O(L) where L is the size of the array
+
+
+CODE :
+
+import java.util.*;
+
+public class HybridSeries {
+
+    public static int findNthTerm(int n) {
+        if(n%2!=0){
+            return fibonaci(n/2+1);
+        }
+        else{
+            List<Integer> primes = sieveOfEratosthenes(1000);
+            return primes.get((n/2)-1); //-1 because the indexing starts from 0
+        }
+    }
+
+    private static int fibonaci(int n){
+        if(n<=2) return 1;
+        int a =1;
+        int b =1;
+        int fib =1;
+        for(int i=3;i<=n;i++){
+            fib=a+b;
+            a=b;
+            b=fib;
+        }
+        return fib;
+    }
+
+    private static List<Integer> sieveOfEratosthenes(int n){
+        boolean[] isPrime = new boolean[n+1];
+        Arrays.fill(isPrime, true);
+        isPrime[0]=isPrime[1]=false;
+
+        for(int i=2;i*i<=n;i++){
+            if(isPrime[i]){
+                for(int j=i*i;j<=n;j+=i){
+                    isPrime[j]=false;
+                }
+            }
+        }
+        List<Integer> primes = new ArrayList<>();
+        for(int i=2;i<=n;i++){
+            if(isPrime[i]) primes.add(i);
+        }
+        return primes;
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the value of N: ");
+        int n = sc.nextInt();
+        
+        System.out.println("The " + n + "th term is: " + findNthTerm(n));
+    }
+}
