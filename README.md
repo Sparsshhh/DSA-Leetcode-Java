@@ -4,9 +4,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
