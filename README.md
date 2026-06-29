@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0392-is-subsequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/1657-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/1657-determine-if-two-strings-are-close) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
