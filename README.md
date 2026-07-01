@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0392-is-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
