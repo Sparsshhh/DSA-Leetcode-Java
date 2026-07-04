@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0394-decode-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -50,6 +51,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2390-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
