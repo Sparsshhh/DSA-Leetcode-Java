@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0735-asteroid-collision) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -84,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
