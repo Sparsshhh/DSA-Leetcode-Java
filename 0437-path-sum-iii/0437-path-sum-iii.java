@@ -14,25 +14,32 @@
  * }
  */
 class Solution {
-    public int pathSum(TreeNode root, int targetSum) {
-        if(root==null) return 0;
+    HashMap<Long, Integer> prefixMap = new HashMap<>();
 
-        return countPath(root,targetSum)
-            + pathSum(root.left,targetSum)
-            +pathSum(root.right,targetSum);
+    public int pathSum(TreeNode root, int targetSum) {
+        if (root == null)
+            return 0;
+
+        prefixMap.put(0L, 1);
+
+        return dfs(root, 0L, targetSum);
     }
-    public int countPath(TreeNode node, long remaining){
-        if(node==null) return 0;
-        int count=0;
-        if(node.val==remaining) count++;
-        count+=countPath(node.left,remaining-node.val);
-        count+=countPath(node.right,remaining-node.val);
+
+    public int dfs(TreeNode node, long currSum, int target) {
+        if (node == null)
+            return 0;
+
+        currSum += node.val;
+
+        int count = prefixMap.getOrDefault(currSum - target, 0);
+
+        prefixMap.put(currSum, prefixMap.getOrDefault(currSum, 0) + 1);
+
+        count += dfs(node.left, currSum, target);
+        count += dfs(node.right, currSum, target);
+
+        prefixMap.put(currSum,prefixMap.get(currSum) - 1);
 
         return count;
     }
 }
-
-/*Treat every node as the starting point of a path.
-Use one DFS (pathSum) to visit every node.
-Use another DFS (countPaths) to count all downward paths starting from that node.
-Add the counts from all starting nodes to get the final answer. */
