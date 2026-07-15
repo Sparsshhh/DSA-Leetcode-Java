@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0735-asteroid-collision) |
 | [1207-unique-number-of-occurrences](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0649-dota2-senate) |
 ## Linked List
 |  |
