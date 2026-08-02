@@ -137,6 +137,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0700-search-in-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Sparsshhh/DSA-Leetcode-Java/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
